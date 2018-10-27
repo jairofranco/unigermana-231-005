@@ -6,3 +6,8 @@ Proyecto para validacion de informacion de las universidades que se encuentren e
 ##Fabian andres de la rosa ortega
 ##Arturo Salamanca
 ##Fabian Sanchez
+Nombre 1
+
+Nombre 2
+
+Nombre 3
